@@ -1,3 +1,6 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.css");
+
 /* background website */
 body{
 	background-image: linear-gradient(to right, #000000, #353535);
