@@ -16,6 +16,7 @@ body{
 .jumbotron .display-4 {
   text-align: center;
   margin-top: 150px;
+	background-color:transparent !important
   background-image: linear-gradient(to right, #000000, #353535) !important;
 	background-size: cover;
 }
