@@ -14,9 +14,9 @@ body{
 
 /* jombotron */
 .jumbotron .display-4 {
+  color: white;
   text-align: center;
   margin-top: 150px;
-	color: white;
 }
 
 /* Others */
