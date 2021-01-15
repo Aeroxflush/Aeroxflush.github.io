@@ -14,7 +14,7 @@ body{
   color: white;
   text-align: center;
   margin-top: 150px;
-  background-image: linear-gradient(to right, #000000, #353535) !important;
+  background-color:transparent !important;
 }
 
 /* Others */
