@@ -46,6 +46,12 @@ body{
   overflow: hidden;
 }
 
+.rounded-circle {
+   width: 350px;
+   height: 350px;
+   border-radius: 50%;
+}
+
 .sosmed-bawah {
   margin-top: 435px;
 }
