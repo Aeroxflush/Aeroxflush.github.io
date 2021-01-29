@@ -1,0 +1,95 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap.css");
+
+/* Body */
+body{
+  background: linear-gradient(to right, #000000, #353535);
+  font-family:'Segoe UI';
+}
+
+/* Navbar */
+.navbar-brand {
+	font-family:'Roboto bold';
+  font-size: 20px;
+}
+
+.navbar-nav{
+  margin-top: 1.5%;
+  margin-left: 6%;
+  margin-bottom: 1%;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-left: 100px;
+}
+
+.nav-link:hover::after{
+  content: '';
+  display: block;
+  border-bottom: 3px solid #CC00FF;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 5px;
+  margin-bottom: -8px;
+}
+
+/* Sidebar */
+.padding-left{
+  height: 100%;
+  width: 92px;
+  position: fixed;
+  left: 2%;
+  top: 0%;
+  overflow-x: hidden;
+  padding-top: 12px;
+  overflow: hidden;
+}
+
+.sosmed-bawah {
+  margin-top: 435px;
+}
+
+/* Home */
+.judul{
+  position: absolute;
+  left: 14%;
+  top: 16%;
+  color: #ce00ce;
+  font-size: 40px;
+  text-transform: uppercase;
+  text-shadow: 2px 1px 3px black;
+}
+
+.keterangan{
+  position: absolute;
+  left: 14%;
+  top: 30%;
+  color: whitesmoke;
+  font-size: 14px;
+  text-shadow: 2px 1px 3px black;
+}
+
+.text{
+  font-size: 10px;
+  position: absolute;
+  color:  white;
+  left: 14%;
+  top: 96%;
+  width: 500px;
+  text-shadow: 0px 0px 3px black;
+}
+
+/* Carousel */
+.carousel{
+  margin-left: 10%;
+  margin-right: auto;
+}
+
+/* Others */
+.hakko {
+  margin-left: 10%;
+  background-color: #CC00FF;
+  color: white;
+  font-size: 20px;
+}
