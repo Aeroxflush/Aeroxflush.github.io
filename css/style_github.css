@@ -47,9 +47,9 @@ body{
 }
 
 .rounded-circle {
-    border-radius: 200px;
-    -webkit-border-radius: 200px;
-    -moz-border-radius: 200px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
 }
 
 .sosmed-bawah {
